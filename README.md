@@ -45,3 +45,8 @@ O objetivo é responder perguntas como:
    ```bash
    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
    cd SEU_REPOSITORIO
+
+   📄 Licença
+
+Este projeto é de uso pessoal/educacional.
+Sinta-se à vontade para adaptar, melhorar e utilizar como base para outros estudos de análise de dados.
